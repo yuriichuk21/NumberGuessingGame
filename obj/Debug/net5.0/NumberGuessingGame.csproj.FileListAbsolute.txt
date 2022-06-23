@@ -1,0 +1,16 @@
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.exe
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.deps.json
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.runtimeconfig.dev.json
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.dll
+C:\Users\38096\source\repos\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.pdb
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.dll
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\refint\NumberGuessingGame.dll
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.pdb
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\38096\source\repos\NumberGuessingGame\obj\Debug\net5.0\ref\NumberGuessingGame.dll
